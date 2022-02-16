@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Dima Avdeev
+- 👋 Hi, I’m Dima Avdeev.  
 I work at JetBrains
